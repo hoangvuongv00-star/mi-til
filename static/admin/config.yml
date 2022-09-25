@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: hoangvuongv00-star/mi-til
+  branch: branch-mi
 
 media_folder: content/assets
 public_folder: ../assets
