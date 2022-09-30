@@ -3,9 +3,9 @@ module.exports = {
     title: `Today I Learned`,
     author: `Vuong Vu`,
     description: `A place I share what I learned, probably interesting things.`,
-    siteUrl: `https://til-vuongvu.netlify.app/`,
+    siteUrl: `http://www.fishcanclimbtrees.blog/`,
     social: {
-      linkedIn: `https://www.linkedin.com/in/vuongvu1/`,
+      linkedIn: `https://www.linkedin.com/in/thu-nguyen-b76739128/`,
     },
   },
   plugins: [
