@@ -26,10 +26,7 @@ function IndexPage({ location }) {
       </h1>
       <p>Nguyen Le Anh Thu</p>
       <p>
-        Nice to see you here{" "}
-        <span role="img" aria-label="heart emoji">
-          ♥️
-        </span>
+        Mi mup edit o day nek
       </p>
       <Link to="/post/">
         <Button marginTop="35px">See all Posts</Button>
