@@ -4,6 +4,8 @@ date: 2022-09-30T19:11:45.052Z
 title: Fish can climb trees, too
 description: ""
 ---
+![](../assets/5053267_460s.jpg)
+
 F﻿ish can swim, i as a human can not
 
 F﻿ish can climb trees, i as a human can 
