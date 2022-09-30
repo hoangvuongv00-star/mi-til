@@ -10,7 +10,7 @@ F﻿ish can climb trees, i as a human can
 
 F﻿ish can fly, i as a human can but with support 
 
-S﻿o cat is the mighty, but fish!
+S﻿o cat is not the mighty, but fish!
 
 Even though they love water, but its the water itself that creates the illusion of fish can not do anything but swim. That's not true and i am here to prove it
 
