@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Today I Learned`,
-    author: `Vuong Vu`,
+    author: `Nguyen Le Anh Thu`,
     description: `A place I share what I learned, probably interesting things.`,
     siteUrl: `http://www.fishcanclimbtrees.blog/`,
     social: {
