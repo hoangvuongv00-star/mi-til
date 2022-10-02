@@ -32,10 +32,10 @@ function IndexPage({ location }) {
 
  <p>So cat is the mighty, but fish!</p>
 
- <p>Even though they love water, but its the water itself that creates the illusion of fish can not do anything but swim. That’s not true and i am here to prove it</>
+ <p>Even though they love water, but its the water itself that creates the illusion of fish can not do anything but swim. That’s not true and i am here to prove it</p>
 
  <p>I am a fish that can climb trees & hope to fly by itself one day!</p>
-      </p>
+   
       <Link to="/post/">
         <Button marginTop="35px">See all Posts</Button>
       </Link>
