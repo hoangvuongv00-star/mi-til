@@ -24,7 +24,9 @@ function IndexPage({ location }) {
           👋
         </span>
       </h1>
-      <p>Nguyen Le Anh Thu</p>
+      <p>My name is Thu, but you can call me Letter.</p>
+        <p> It's a direct translation from my Vietnamese name. </p>
+       <p> I'm not special, i'm extremely average </p>
       <p>Fish can swim, i as a human can not</p>
  <p>Fish can climb trees, i as a human can</p>
 
