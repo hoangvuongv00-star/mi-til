@@ -19,7 +19,7 @@ function IndexPage({ location }) {
         />
       </div>
       <h1>
-        <p> Hi, welcome to my blog{" "}
+        Hi, welcome to my blog {" "}
         <span role="img" aria-label="wave emoji">
           👋
         </span>
