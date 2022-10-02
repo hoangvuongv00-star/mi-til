@@ -19,13 +19,13 @@ function IndexPage({ location }) {
         />
       </div>
       <h1>
-        Hey there{" "}
+        Hi, welcome to my blog{" "}
         <span role="img" aria-label="wave emoji">
           👋
         </span>
       </h1>
       <p>My name is Thu, but you can call me Letter.</p>
-        <p> It's a direct translation from my Vietnamese name. </p>
+       It's a direct translation from my Vietnamese name. </p>
        <p> I'm not special, i'm extremely average </p>
       <p>Fish can swim, i as a human can not</p>
  <p>Fish can climb trees, i as a human can</p>
