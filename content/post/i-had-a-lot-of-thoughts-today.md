@@ -1,5 +1,5 @@
 ---
-path: aa
+path: Thoughts
 date: 2022-11-11T18:07:05.204Z
 title: I had a lot of thoughts today
 ---
